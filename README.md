@@ -14,3 +14,6 @@ The page also includes a navbar with a simple search box and action icons.
 - drop-down menu possible
 - theme selection (system, light, dark)
 - Navbar with logo, search box, action icons
+
+## Demo:
+[Live Demo](https://sidebar-template-neon.vercel.app/)
